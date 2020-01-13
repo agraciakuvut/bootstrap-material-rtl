@@ -1,0 +1,13 @@
+{
+  "name": "bootstrap-material-rtl",
+  "homepage": "https://github.com/agraciakuvut/bootstrap-material-rtl",
+  "description": "",
+  "main": [
+    "css/bootstrap-material-design.min.css",
+    "js/bootstrap-material-design.min.js"
+  ],
+  "dependencies": {
+    "jquery": ">=2.0"
+  },
+  "license": "MIT"
+}
